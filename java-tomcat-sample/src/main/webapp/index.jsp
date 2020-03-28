@@ -5,7 +5,8 @@ You have successfully created the CI/CD pipeline using jenkins for web applicati
 Great Job.<br>
 Keep going like that.<br>
 Good luck.<br>
-Job is running in pipeline view as well.
+Job is running in pipeline view as well.<br>
+Finally triggering the deployment to prod manually which is called the continuous delivery.
 </h2>
 </body>
 </html>
