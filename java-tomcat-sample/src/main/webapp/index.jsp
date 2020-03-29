@@ -6,7 +6,8 @@ Great Job.<br>
 Keep going like that.<br>
 Good luck.<br>
 Job is running in pipeline view as well.<br>
-Finally triggering the deployment to prod manually which is called the continuous delivery.
+Finally triggering the deployment to prod manually which is called the continuous delivery.<br>
+working fine usind code pipeline as well. hehe haha!!!
 </h2>
 </body>
 </html>
